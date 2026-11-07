@@ -3,14 +3,23 @@
 Projeto de tradução em Português do Brasil para o jogo **Dishonored 1** (versão PC / Steam), desenvolvido com fidelidade máxima ao cânone e terminologia oficial da Arkane Studios / Bethesda (alinhado com Dishonored 2).
 
 ## 📁 Arquivos Traduzidos até o Momento:
+
 - `DishonoredGame.int`:
   - **Menu Principal Completo:** Novo Jogo, Missões, Estatísticas, Dificuldades (Fácil, Normal, Difícil, Muito Difícil e modos de Daud), Extras.
   - **Nomes Canônicos de Todas as Missões e Mapas:** Desonrado, Alto Supervisor Campbell, Casa dos Prazeres, O Médico Real, O Último Baile de Lady Boyle, Retorno à Torre, O Distrito Inundado, Os Lealistas, A Luz no Fim, etc.
-  - **Interface do Diário (Journal):** Objetivos, Pistas, Tarefas, Áudiografos, Notas, Livros, Mapas, Amuletos de Osso, e todos os Poderes (*Translação*, *Visão Sombria*, *Enxame Devorador*, *Dobrar o Tempo*, *Possessão*, *Rajada de Vento*, *Morte pelas Sombras*, etc.).
+  - **Interface do Diário (Journal):** Objetivos, Pistas, Tarefas, Audiógrafos, Notas, Livros, Mapas, Amuletos de Osso, e todos os Poderes (*Translação*, *Visão Sombria*, *Enxame Devorador*, *Dobrar o Tempo*, *Possessão*, *Rajada de Vento*, *Morte pelas Sombras*, etc.).
+  - **Telas de Carregamento (Loading Tips):** 100% das 384 dicas e textos contextuais de carregamento traduzidos em todas as 41 seções do jogo.
   - **HUD em Jogo:** Objetivos (Concluído, Falhou, Atualizado, Novo), Notificações de Alvos (Assassinado, Neutralizado, Resgatado, Poupado) e Loja de Melhorias do Piero.
   - **Tutoriais e Mensagens de Sistema:** Todos os tutoriais de gameplay e telas de diálogo/erros do sistema.
+
 - `Settings.int`:
   - **Menu de Opções / Configurações Completo:** Mapeamento de Teclas e Mouse, Esquemas de Controle, Configurações de HUD, Jogabilidade, Vídeo/Gráficos, Áudio e Nomes de todas as teclas.
+
+- `Subtitles.int`:
+  - **Legendas de Cutscenes e Vídeos:** 100% das legendas das cenas cinematográficas e monólogos narrados (Carta da Imperatriz Jessamine a Corvo na introdução, todos os monólogos de Daud em *The Knife of Dunwall* e *The Brigmore Witches*, e todos os desfechos/finais em Alto e Baixo Caos).
+
+- `AudioGraph_Twk.int`, `DLC06_AudioGraph_Twk.int`, `DLC07_AudioGraph_Twk.int`, `AudioGraph_Assets.int`:
+  - **Audiógrafos / Gravações de Voz:** Transcrições e descrições completas de todos os 55 audiógrafos do jogo base e expansões (gravações de voz in-game de Hiram Burrows, Anton Sokolov, Slackjaw/Crowley, Daud, Callista, Havelock, Lorde Pendleton, Piero, Samuel, Emily e Rothwild).
 
 ---
 
@@ -22,5 +31,5 @@ Projeto de tradução em Português do Brasil para o jogo **Dishonored 1** (vers
    ```text
    C:\Program Files (x86)\Steam\steamapps\common\Dishonored\DishonoredGame\Localization\INT
    ```
-4. Substitua os arquivos `DishonoredGame.int` e `Settings.int` pelos arquivos traduzidos deste repositório.
+4. Substitua os arquivos pelos arquivos correspondentes deste repositório.
 5. Inicie o jogo e aproveite!
