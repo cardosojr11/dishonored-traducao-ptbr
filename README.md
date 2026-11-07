@@ -30,6 +30,13 @@ Projeto de tradução completa e definitiva em Português do Brasil para o jogo 
     - Anúncios oficiais do sistema de alto-falantes da prisão (*"Aviso: Corvo Attano, outrora Protetor Real e o assassino que vitimou a nossa amada Imperatriz, escapou de sua cela. A Prisão de Coldridge está agora em confinamento total."*).
     - Descoberta da cela vazia, perseguição dos guardas no pátio da prisão, explosão da porta externa e fuga rumo aos esgotos (*"Ele está indo para os esgotos! Se ele chegar ao esgoto nós vamos perdê-lo!"*).
 
+- `DishonoredGame\CookedPCConsole\L_PrsnSewer_Script.upk`:
+  - **100% dos Diálogos Falados e Legendas Dinâmicas dos Esgotos da Prisão (Fuga de Coldridge):**
+    - Encontro com Samuel Beechworth na saída dos esgotos (*"Corvo, aqui! Rápido. Eu sou um amigo. Eu sou o Samuel, e trabalho para um pessoal de bem que quer muito conhecer você. Suba. Temos uma refeição quente e uma cama confortável esperando por você."*).
+    - Escolhas de diálogo com Samuel no barco (*"Tudo bem, meu velho. Vamos."*, *"Espere aqui. Preciso de um momento primeiro."*).
+    - Conversas dos guardas descartando cadáveres da peste nos esgotos (*"De onde veio essa carga de cadáveres? A Guarda isolou o Distrito do Tabaco... Deixe os ratos comerem."*).
+    - Transmissões oficiais da Guarda da Cidade pelo rádio alertando toda Dunwall sobre a fuga de Corvo.
+
 ---
 
 ### 📜 2. Todos os Textos, Menus, Objetivos e Livros (`Localization/INT/` - 658 Arquivos):
