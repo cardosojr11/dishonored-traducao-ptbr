@@ -1,0 +1,4 @@
+# Ignorar temporários
+*.tmp
+.DS_Store
+Thumbs.db
