@@ -22,6 +22,14 @@ Projeto de tradução completa e definitiva em Português do Brasil para o jogo 
     - Proclamação do Lorde Regente Hiram Burrows culpando Corvo pelo assassinato.
     - Gritos de combate, barks de alerta e investigação de guardas, estritos religiosos dos Supervisores e reações à peste.
 
+- `DishonoredGame\CookedPCConsole\L_Prison_Script.upk`:
+  - **100% dos Diálogos Falados e Legendas Dinâmicas da Prisão de Coldridge (Missão 1):**
+    - Entrega do pão com a chave na cela de Corvo (*"O jantar está servido, Lorde Protetor. Coma a sua comida, Corvo. É de um amigo. Alguns de nós ainda acreditam em você."*).
+    - Interrogatório da sala de tortura com o Lorde Regente Hiram Burrows e o Alto Supervisor Campbell confessando o plano (*"Corvo, a Imperatriz está morta, a filha dela, Emily, está escondida, e ninguém jamais saberá a verdade... Quando sua cabeça rolar no chão, quero que saiba que nós estaremos sorrindo."*).
+    - Falas e reações de todos os prisioneiros nas celas (*"Diga ao Crowley que estou aqui! Ele tem que me tirar daqui!"*, *"Queimem este lugar até o chão!"*, etc.).
+    - Anúncios oficiais do sistema de alto-falantes da prisão (*"Aviso: Corvo Attano, outrora Protetor Real e o assassino que vitimou a nossa amada Imperatriz, escapou de sua cela. A Prisão de Coldridge está agora em confinamento total."*).
+    - Descoberta da cela vazia, perseguição dos guardas no pátio da prisão, explosão da porta externa e fuga rumo aos esgotos (*"Ele está indo para os esgotos! Se ele chegar ao esgoto nós vamos perdê-lo!"*).
+
 ---
 
 ### 📜 2. Todos os Textos, Menus, Objetivos e Livros (`Localization/INT/` - 658 Arquivos):
