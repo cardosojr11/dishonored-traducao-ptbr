@@ -37,6 +37,14 @@ Projeto de tradução completa e definitiva em Português do Brasil para o jogo 
     - Conversas dos guardas descartando cadáveres da peste nos esgotos (*"De onde veio essa carga de cadáveres? A Guarda isolou o Distrito do Tabaco... Deixe os ratos comerem."*).
     - Transmissões oficiais da Guarda da Cidade pelo rádio alertando toda Dunwall sobre a fuga de Corvo.
 
+- `DishonoredGame\CookedPCConsole\L_Pub_FromPrison_Script.upk`:
+  - **100% dos Diálogos Falados e Legendas Dinâmicas da Chegada ao Hound Pits Pub:**
+    - Recepção e apresentação da Conspiração dos Leais pelo Almirante Havelock e Lorde Treavor Pendleton (*"Corvo, sou o Almirante Havelock, um verdadeiro servo do Império, como você... Estamos construindo uma coalizão de leais para acabar com a tirania do Lorde Regente e restaurar o trono."*).
+    - Primeiro encontro com o inventor Piero Joplin em sua oficina e a criação da Máscara do Assassino (*"Aqui, veja só. A máscara do assassino. Você é um homem procurado, todos conhecem seu rosto, mas esta máscara representará o terror para eles."*).
+    - Diálogos da tarefa de reposição do tanque de óleo de baleia no dispensador de Piero.
+    - Conversas com os criados do pub (Wallace Higgins, Cecelia e Lydia) e condução de Corvo até seu quarto no sótão.
+    - Escolhas interativas do jogador (*"Sim, vamos dar uma olhada."*, *"Agora não, Piero."*, *"Sim, você tem razão. Vou para o meu quarto dormir."*).
+
 ---
 
 ### 📜 2. Todos os Textos, Menus, Objetivos e Livros (`Localization/INT/` - 658 Arquivos):
