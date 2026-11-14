@@ -37,6 +37,13 @@ Projeto de tradução completa e definitiva em Português do Brasil para o jogo 
     - Conversas dos guardas descartando cadáveres da peste nos esgotos (*"De onde veio essa carga de cadáveres? A Guarda isolou o Distrito do Tabaco... Deixe os ratos comerem."*).
     - Transmissões oficiais da Guarda da Cidade pelo rádio alertando toda Dunwall sobre a fuga de Corvo.
 
+- `DishonoredGame\CookedPCConsole\L_PrsnSewer_RatScene.upk`:
+  - **100% dos Diálogos Falados e Legendas Dinâmicas do Enxame de Ratos e Estação de Tratamento de Dunwall (Dunwall Waterworks):**
+    - Conversas de busca e perseguição dos guardas da Guarda da Cidade na entrada da Estação de Águas de Dunwall (*"Ele usou algum tipo de explosivo para abrir caminho. Isso não acontece por acidente"*, *"Você acha que ele teve ajuda? Quem saberia como fazer aquilo?"*, *"Talvez seja a gangue de Bottle Street. Cuidado com armadilhas. Pode haver algumas por aqui, pelo visto"*, *"Ótimo. Se tivermos sorte, uma delas pega o Corvo"*, etc.).
+    - Diálogos sobre Corvo e seu passado no pátio de treinamento de Serkonos (*"Garotos como você nunca viram como ele era. Eu o vi lutar de três contra um no pátio de treinamento. Ele é um turbilhão."*).
+    - Discussões entre guardas sobre divisão de recompensa, medo do escuro e travessia dos portões de ferro.
+    - Todos os gritos de pânico com enxames de ratos, barks de combate, alertas e buscas de guardas na área dos esgotos.
+
 - `DishonoredGame\CookedPCConsole\L_Pub_FromPrison_Script.upk`:
   - **100% dos Diálogos Falados e Legendas Dinâmicas da Chegada ao Hound Pits Pub:**
     - Recepção e apresentação da Conspiração dos Leais pelo Almirante Havelock e Lorde Treavor Pendleton (*"Corvo, sou o Almirante Havelock, um verdadeiro servo do Império, como você... Estamos construindo uma coalizão de leais para acabar com a tirania do Lorde Regente e restaurar o trono."*).
